@@ -55,3 +55,4 @@ build
 cmake-build-*/
 *.vcxproj
 *.vcxproj.filters
+*.vcxproj.user
